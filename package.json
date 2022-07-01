@@ -1,0 +1,27 @@
+{
+  "name": "hackv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "delay": "^5.0.0",
+    "moment": "^2.29.3",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "node .",
+    "run": "node .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcqrya/ZHack.git"
+  },
+  "keywords": [
+    "stumble"
+  ],
+  "author": "xcqrya",
+  "license": "ISC"
+}
